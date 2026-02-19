@@ -8,10 +8,8 @@
     flex-shrink: 0;
     display: flex;
     align-items: center;
-    gap: 20px;
-    border: #B500B2 dotted 2px;
-    gap: 8px;  
-    margin-left: auto;
+    justify-content: space-between ; 
+    width: 40%;
 }
 
 .right-icon {
@@ -52,7 +50,7 @@
     font-size: 16px;
     font-weight: 500;
     color:#B500B2;
-    padding: 7px, 12px;
+    padding: 7px 12px;
 }
 
 .notification .material-symbols-outlined{
