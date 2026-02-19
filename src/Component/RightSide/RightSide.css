@@ -1,0 +1,101 @@
+.create-btn .material-symbols-outlined{
+    font-size: 20px;
+    color: inherit;
+    position: static;
+}
+
+.Right{
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    border: #B500B2 dotted 2px;
+    gap: 8px;  
+    margin-left: auto;
+}
+
+.right-icon {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.create-btn{
+    display: flex;
+    align-items: center;
+    gap: 3px;  
+    padding: 8px 15px;
+    height: 32px;
+    border: none;
+    background-color: #5a82bf;
+    color: rgb(26, 26, 26);
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 4px;
+}
+
+.see-plans .material-symbols-outlined{
+    font-size: 20px;
+    color: inherit;
+    position: static;
+}
+
+.see-plans{
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    background-color: inherit;
+    border: #B500B2 solid 1.5px;
+    height: 32px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 500;
+    color:#B500B2;
+    padding: 7px, 12px;
+}
+
+.notification .material-symbols-outlined{
+    font-size: 20px;
+    position: static;
+}
+
+.notification {
+    height: 32px;
+    padding: 7px;
+    background-color: inherit;
+    display: flex;
+    align-items: center;
+    color: rgb(186, 184, 184);
+    border-radius: 4px;
+}
+
+.help{
+    height: 32px;
+    padding: 7px;
+    background-color: inherit;
+    display: flex;
+    align-items: center;
+    color: rgb(186, 184, 184);
+    border-radius: 4px;
+}
+
+.help .material-symbols-outlined{
+    font-size: 20px;
+    position: static;
+}
+
+.settings .material-symbols-outlined{
+    font-size: 20px;
+    position: static;
+}
+
+.settings{
+    height: 32px;
+    padding: 7px;
+    background-color: inherit;
+    display: flex;
+    align-items: center;
+    color: rgb(186, 184, 184);
+    border-radius: 4px;
+}

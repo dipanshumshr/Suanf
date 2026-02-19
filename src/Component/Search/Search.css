@@ -1,0 +1,26 @@
+.searchPanel .material-symbols-outlined {
+  font-size: 18px;
+  color: #5e6c84;
+  position: absolute;
+  top: 50%;
+  left:10px;
+  transform: translateY(-50%);
+}
+
+.searchPanel{
+  position: relative; 
+   max-width: 750px;
+  flex: 0 0 750px;
+}
+
+.jira-search-input{
+  width:100%;
+  padding: 8px 12px 8px 36px;
+  border-radius: 7px;
+  border: rgb(126, 126, 126) solid 1px;
+  font-size: 14px;
+  box-sizing: border-box;
+  background-color: #1e1e1e;
+  color: white;
+}
+

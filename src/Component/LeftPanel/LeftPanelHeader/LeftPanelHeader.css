@@ -1,0 +1,63 @@
+.comfy_alt .material-symbols-outlined{
+    color: inherit;
+    font-size: 18px;
+    position: static;
+}
+
+.comfy_alt{
+    background-color: inherit;
+    display: flex;
+    align-items: center;
+    height: 32px;
+    padding: 7px;
+    border-radius: 4px;
+    color: rgb(186, 184, 184);
+}
+
+.jira-icon img {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  border-radius: 6px;
+}
+
+.jira-icon{
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    background-color: inherit;
+    color: beige;
+    padding: 5px;
+}
+
+.header-left{
+    display: flex;
+    gap:4px;
+    align-items: center;
+}
+
+.panel_close .material-symbols-outlined{
+    color: inherit;
+    font-size: 20px;
+    position: static;
+}
+
+.panel_close{
+    background-color: inherit;
+    display: flex;
+    align-items: center;
+    height: 32px;
+    padding: 6px;
+    border-radius: 4px;
+    color: rgb(186, 184, 184);
+}
+
+.LeftPanelHeader{
+    height: 48px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 6px 16px;
+    box-sizing: border-box;
+}
